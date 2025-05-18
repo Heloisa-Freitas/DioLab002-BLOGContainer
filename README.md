@@ -97,3 +97,14 @@ curl https://curso-ia-containerapp.blacksea-02791e96.canadacentral.azurecontaine
 ## Resultado Final
 Landing Page publicada com sucesso:
 https://curso-ia-containerapp.blacksea-02791e96.canadacentral.azurecontainerapps.io
+
+![image](https://github.com/user-attachments/assets/a343cdfe-7e84-4606-a4d9-740c4057e55d)
+![image](https://github.com/user-attachments/assets/775c1d76-3d8c-4b4e-8491-82358ca4368b)
+![image](https://github.com/user-attachments/assets/91938977-e99c-4448-ace0-f899aa1b3e61)
+
+
+
+### Acesso pelo Smartphone
+![image](https://github.com/user-attachments/assets/66db2999-fe19-48a2-b22e-84e66b401862)
+
+
