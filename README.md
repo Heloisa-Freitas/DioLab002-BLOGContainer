@@ -1,4 +1,4 @@
-# Projeto: Publicação de Landing Page de Curso de IA com Azure Container Apps
+# Projeto: Publicação Blog com Azure Container Apps
 
 ## Objetivo
 Publicar uma aplicação estática (landing page em HTML) em um container no Azure, usando:
